@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+chroma_db/
+data/labels/
+.env
+.DS_Store
+*.docx
